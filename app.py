@@ -35,7 +35,7 @@ def main():
 
         if selected_api == "echarts":
             st.caption(
-                """ECharts demos are extracted from https://echarts.apache.org/examples/en/index.html, 
+                """EChart demos are extracted from https://echarts.apache.org/examples/en/index.html, 
             by copying/formattting the 'option' json object into st_echarts.
             Definitely check the echarts example page, convert the JSON specs to Python Dicts and you should get a nice viz."""
             )
